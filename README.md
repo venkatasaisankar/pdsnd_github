@@ -15,3 +15,5 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ### Bikeshare.py
 step1: I Imported python libraies like numpy,pandas,datetime,time,calendar
+
+step2: I imported csv files like chicago.csv newyorkcity.csv washington.csv 
